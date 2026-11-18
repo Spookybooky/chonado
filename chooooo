@@ -4,8 +4,8 @@ import time
 import telebot
 from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton
 
-# ТОКЕН (пусть друг вставит сюда токен от BotFather)
-BOT_TOKEN = "ВСТАВЬ_СЮДА_ТОКЕН"
+# ТОКЕН (от BotFather)
+BOT_TOKEN = "9132537199:AAGF7QnaYCyiPGAH67euOIeh-jDVJ8dwTnQ"
 bot = telebot.TeleBot(BOT_TOKEN)
 
 # Генератор 6-7 буквенных имен
